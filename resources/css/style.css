@@ -1,0 +1,70 @@
+/*	CSS for the S04E06 - MYT project				*/
+	
+.imagelead{
+	background-image: url('../images/img-story-main.png');
+}
+	
+/*	--------------------------------------	*/
+/*					GLOBAL Stuff										*/
+/*	--------------------------------------	*/
+body {
+	font-family: Helvetica;
+	font-size: 22px;
+	color: seashell;
+	background-color: black;
+	opacity: 0.9;
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+p {
+}
+
+/*	--------------------------------------	*/
+/*					HEADER Bar Stuff								*/
+/*	--------------------------------------	*/
+.company-name {
+}
+
+.menu-bar {
+}
+
+.nav-link-header {
+}
+
+.splash-panel {
+}
+
+.splash-infobar {
+}
+
+/*	--------------------------------------	*/
+/*					MAIN Content Stuff							*/
+/*	--------------------------------------	*/
+.highlighted-products {
+}
+
+.location-panel {
+}
+
+h4.fuzzy {
+}
+
+
+
+
+
+/*	--------------------------------------	*/
+/*					FOOTER area stuff								*/
+/*	--------------------------------------	*/
+h5 {
+}
+
+
