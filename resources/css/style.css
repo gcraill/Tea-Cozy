@@ -1,3 +1,15 @@
+/*
+I really struggled with this one, I did have it all nice and responsive but then as soon as i added the 
+background images in, the responsiveness went out the window. No real idea and I wasted 15+ hours on it
+so time to move on.
+
+I understand that I need to "flatten" the CSS and remove duplicated entries, and make it more semantic to
+the purpose but the time to spend on this one is over. My work does not give me unlimited time to complete 
+this at my leisure ... so Maybe later ...  
+
+GC
+*/
+
 /*	https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/				*/
 html {
   box-sizing: border-box;
